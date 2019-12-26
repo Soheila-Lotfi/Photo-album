@@ -1,0 +1,27 @@
+#closebutton{
+    position: absolute;
+    height:30px;
+    width:30px;
+    z-index: 1;
+}
+
+#results{
+    position: relative;
+}
+
+
+#albums{
+    position: absolute;
+    width:60%;
+    left:10%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.lists:hover {
+color:green;
+cursor: pointer;
+}
+
+ul {
+    list-style-image: url('list.jpg');
+  }
